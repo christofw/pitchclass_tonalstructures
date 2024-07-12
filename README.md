@@ -2,7 +2,7 @@
 
 This is a pytorch code repository accompanying the following paper:  
 
-> Christof Weiß and Geoffroy Peeters  
+> Christof Weiß and Meinard Müller
 > _From Music Scores to Audio Recordings: Deep Pitch-Class Representations for Measuring Tonal Structures_  
 >  ACM Journal on Computing and Cultural Heritage, 2024
 
@@ -28,5 +28,4 @@ __python experiments/exp136b_traintest_schubert_sctcthreecomp_pitchclass.py__
 
 
 ### Application: Visualization (Figure 5)
-
 * Please see the Jupyter Notebook _03_visualize_pitch_class_features_.
