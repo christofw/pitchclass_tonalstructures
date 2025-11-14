@@ -16,16 +16,3 @@ For details and references, please see the paper.
 In this top folder, three Jupyter notebooks demonstrate how to 
 * preprocess audio files for running our models (_01_precompute_features_),
 * load a pretrained model for predicting pitches (_02_predict_with_pretrained_model_),
-* generate the visualizations of the paper's Figure 5 (_03_visualize_pitch_class_features_).
-
-## Experiments from the paper (Python scripts)
-coming soon...
-  
-Run scripts using e.g. the following commands:  
-__conda activate pitchclass_mctc__  
-__export CUDA_VISIBLE_DEVICES=1__  
-__python experiments/exp136b_traintest_schubert_sctcthreecomp_pitchclass.py__  
-
-
-### Application: Visualization (Figure 5)
-* Please see the Jupyter Notebook _03_visualize_pitch_class_features_.
